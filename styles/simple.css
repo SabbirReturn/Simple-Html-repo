@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    padding-left: 800px;
+}
+nav ul li{
+    list-style: None;
+    padding-right: 15px;
+}
+a{
+    color: chartreuse;
+}
+.Sabbir{
+    color:white;
+    padding-left: 50px;
+    font-size: 30px;
+}
+span{
+    color: darkgoldenrod;
+}
+article{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 150px
+}
